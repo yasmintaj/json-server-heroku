@@ -1,16 +1,21 @@
 {
-  "posts":[
+  "folders": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "name": "angular",
+      "id": 1594026038283
     }
   ],
-  "comments" : [
+  "notes": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "note": "All the following are required, so the text must be in a single straight line that overflows",
+      "title": "All the following are required, so the text must be in a single straight line that overflows ",
+      "preview": "No additional text",
+      "updatedAt": "2020-07-06T09:01:26.231Z",
+      "id": 1594026038299,
+      "folder": 1594026038283
     }
   ]
 }
+
+
+
